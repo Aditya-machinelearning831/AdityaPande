@@ -63,7 +63,7 @@
 
 ### 🏅 Fun Section
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaPande&theme=darkhub&column=6&margin-w=10&margin-h=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaPande-ML-DataAnalyst&theme=darkhub&column=6&margin-w=10&margin-h=10" alt="Trophies"/>
 </p>
 
 
